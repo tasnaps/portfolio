@@ -1,0 +1,9 @@
+1. \bootstrap\node_modules\startbootstrap-freelancer\dist\index.html
+2. asenna riippuvuudet projekteille: Sanakirja, TKRESTAPI, urheilija2 kansiossa \bootstrap\Prokkikset
+3. urheilija2 linkittyy index.html sivulta, joten se pitää avata npm ja nodella
+4. TKRESTAPI pelkkä nodemon index käynnistää rajapinnan
+5. Sanakirja nodemon app.js
+
+index.html sisällä voi suunnistaa tekemieni projektien sisällä.
+
+
